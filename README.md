@@ -47,25 +47,7 @@ Curated, non-redundant GO terms retained after manual filtering:
 
 ---
 
-## Repository Structure
-├── data/
-│ ├── query_sequence.fasta
-│ 
-├── blast/
-│ ├── blast_results.txt
-│ ├── selected_homologs.xlsx
-│
-├── interproscan/
-│ ├── raw_interpro_results.xlsx
-│ ├── cleaned_annotations.xlsx
-│
-├── msa/
-│ ├── alignment.fasta
-│
-├── phylogeny/
-│ ├── tree.nwk
-│ ├── tree.png
-│
-├── README.md
+
+
 
 
